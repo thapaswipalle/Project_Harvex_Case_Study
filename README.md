@@ -4,7 +4,7 @@ Data architecture and business intelligence case study for a agricultural supply
 # Case Study: Project Harvex
 ### Analytics & Data Infrastructure for a Farm-to-Consumer E-Commerce Platform
 
-> **Notice:** Due to a published patent application with the Indian Patent Office (App No: 202441097197), corporate non-disclosure agreements, and proprietary data privacy standards, the source code and raw operational datasets for this platform are confidential. This document serves as a high-level technical overview of my contributions and system architecture design.
+> **Notice:** Notice: This project's core system design is linked to a patent application filed with the Indian Patent Office (App No. 202441097197). As the intellectual property is held by the academic institution, the full source code and underlying datasets are not publicly released. This repository provides a high-level overview of the system architecture and my individual contributions.
 
 ---
 
