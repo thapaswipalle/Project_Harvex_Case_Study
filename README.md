@@ -1,5 +1,5 @@
 # Project_Harvex_Case_Study
-Data architecture and business intelligence case study for a patented agricultural supply chain platform.
+Data architecture and business intelligence case study for a agricultural supply chain platform.
 
 # Case Study: Project Harvex
 ### Analytics & Data Infrastructure for a Farm-to-Consumer E-Commerce Platform
